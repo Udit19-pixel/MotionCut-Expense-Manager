@@ -20,5 +20,5 @@ Some features are :-
 ## Utilites
 * Java
 * IntelliJ-IDEA
-* Flatlaf
+* Swing-Flatlaf
 * MySQL-JDBC
